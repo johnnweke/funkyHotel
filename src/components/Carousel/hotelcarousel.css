@@ -1,0 +1,29 @@
+#HotelCarousel {}
+
+img {
+  height: 500px;
+  width: 500px;
+}
+
+.caption,
+.carouselHeader,
+.carouselP {
+  font-size: 70px;
+  font-family: 'HelveticaNeueLT-Black';
+  font-weight: bold;
+  text-shadow: 2px 2px #000000;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.carouselHeader {
+  color: black;
+  font-weight: 500;
+  text-shadow: none;
+
+}
+
+.carouselP {
+  font-size: 40px;
+}
